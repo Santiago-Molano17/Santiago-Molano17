@@ -4,10 +4,10 @@
 
 ### Hola, soy **Santiago Molano** 👋
 
-Estudiante de ingeniería desde Colombia 🇨🇴 · **Automatización** + **Desarrollo Full-Stack**, con enfoque en **datos e IA**
+Estudiante de ingeniería de la universidad de San Buenaventura. · **Automatización** + **Desarrollo Full-Stack**, con enfoque en **datos e IA**
 
 [![Gmail](https://img.shields.io/badge/molanosmith17@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:molanosmith17@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-molano-17s0923)
 
 </div>
 
@@ -42,7 +42,6 @@ Estudiante de ingeniería desde Colombia 🇨🇴 · **Automatización** + **Des
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **📊 Datos**
