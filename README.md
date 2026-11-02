@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=0F7A63&center=true&vCenter=true&width=620&height=45&lines=Desarrollador+Full-Stack+(Junior);Java+%C2%B7+Spring+Boot+%C2%B7+Node.js;C%C3%B3digo+limpio%2C+seguro+y+bien+estructurado" alt="Santiago Molano - Desarrollador Full-Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=0F7A63&center=true&vCenter=true&width=640&height=45&lines=Automatizaci%C3%B3n+con+n8n+%26+IA;Desarrollo+Full-Stack+%C2%B7+Java+%26+Node.js;Data+Science+en+formaci%C3%B3n" alt="Santiago Molano - Automatización, Full-Stack y Data" />
 
 ### Hola, soy **Santiago Molano** 👋
 
-Estudiante de ingeniería y desarrollador de software desde Colombia 🇨🇴
+Estudiante de ingeniería desde Colombia 🇨🇴 · **Automatización** + **Desarrollo Full-Stack**, con enfoque en **datos e IA**
 
 [![Gmail](https://img.shields.io/badge/molanosmith17@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:molanosmith17@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
@@ -15,44 +15,50 @@ Estudiante de ingeniería y desarrollador de software desde Colombia 🇨🇴
 
 ## 👨‍💻 Sobre mí
 
-- 💻 Construyo **aplicaciones web full-stack** de principio a fin con **Java / Spring Boot** y **Node.js**.
-- 🧱 Me gusta la **arquitectura por capas**, el código limpio y la **seguridad desde el diseño** (roles, JWT, OWASP).
-- ⚙️ Aprendo herramientas nuevas rápido: de **Spring Boot** a la automatización de flujos con **n8n**.
-- 🌱 Siempre mejorando. **Abierto a prácticas y a mi primer empleo** como desarrollador.
-- 📫 Escríbeme a **molanosmith17@gmail.com**
+- 🤖 **Mi fuerte:** la **automatización de procesos** con **n8n**, conectando apps, APIs y datos para que el trabajo repetitivo se haga solo.
+- 💻 **Mi segunda fortaleza:** el **desarrollo full-stack** — construyo aplicaciones web completas con **Java/Spring Boot** y **Node.js**, con arquitectura por capas y seguridad desde el diseño.
+- 🧠 **Mi enfoque de crecimiento:** **Data Science** y la **automatización con IA**.
+- 🗄️ Base sólida en **SQL** y en buenas prácticas (roles, JWT, OWASP).
+- 🌱 **Abierto a prácticas y a mi primer empleo.** 📫 **molanosmith17@gmail.com**
 
 ---
 
 ## 🛠️ Tecnologías
 
-**Lenguajes**
+**🤖 Automatización & IA** · *fortaleza principal*
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs_REST-0F7A63?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-0F7A63?style=for-the-badge&logo=webhooks&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+**💻 Desarrollo Full-Stack** · *segunda fortaleza*
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Backend**
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Frontend**
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Datos y herramientas**
+**📊 Datos**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**🌱 Aprendiendo / En foco**
+
+![Data Science](https://img.shields.io/badge/Data_Science-0F7A63?style=for-the-badge&logo=databricks&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![IA / LLMs](https://img.shields.io/badge/IA_%2F_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -60,8 +66,10 @@ Estudiante de ingeniería y desarrollador de software desde Colombia 🇨🇴
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 🔬 **[SACM](https://github.com/Santiago-Molano17/SACM)** | Sistema de Análisis y Control de Malware. Analiza archivos y explica su nivel de riesgo con un motor heurístico mapeado a **MITRE ATT&CK**, integra APIs de inteligencia de amenazas (VirusTotal, MalwareBazaar, CIRCL, URLhaus) y protege con JWT, roles y OWASP. | `Node.js` `Express` `MySQL` `JWT` |
-| 🌱 **[EcoGuía](https://github.com/Santiago-Molano17/EcoGuia)** | Plataforma web de consumo responsable: tienda de frutas y verduras con carrito y pedidos, y una sección de consejos. Arquitectura por capas con **5 roles**, BCrypt, CSRF y migraciones versionadas con Flyway. | `Java` `Spring Boot` `Spring Security` `JPA` |
+| 🤖 **[SACM](https://github.com/Santiago-Molano17/SACM)** | Orquesta **varias APIs externas** de inteligencia de amenazas (VirusTotal, MalwareBazaar, CIRCL, URLhaus) y **automatiza** el análisis de archivos con un motor heurístico. Incluye un panel con **estadísticas y datos** de cada análisis. | `Node.js` `APIs` `MySQL` |
+| 🌱 **[EcoGuía](https://github.com/Santiago-Molano17/EcoGuia)** | Aplicación **full-stack** con arquitectura por capas: modelo de **datos** normalizado, panel de **métricas de ventas**, 5 roles y seguridad. Backend robusto con Spring Boot y migraciones versionadas. | `Java` `Spring Boot` `SQL` |
+
+> 💡 Estoy llevando estos proyectos hacia la automatización: integraciones con n8n y análisis de sus datos.
 
 ---
 
@@ -78,7 +86,7 @@ Estudiante de ingeniería y desarrollador de software desde Colombia 🇨🇴
 
 <div align="center">
 
-*"El buen software no solo funciona: se entiende, se cuida y es seguro."*
+*"Si una tarea se repite, se puede automatizar."*
 
 ⭐️ Gracias por visitar mi perfil
 
